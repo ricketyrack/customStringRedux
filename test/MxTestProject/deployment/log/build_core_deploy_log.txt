@@ -1,0 +1,8 @@
+Buildfile: C:\msys64\home\Rick.Wilson\projects\customStringRedux\test\MxTestProject\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 32 files to C:\msys64\home\Rick.Wilson\projects\customStringRedux\test\MxTestProject\deployment
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+

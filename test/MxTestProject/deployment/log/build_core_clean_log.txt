@@ -1,0 +1,9 @@
+Buildfile: C:\msys64\home\Rick.Wilson\projects\customStringRedux\test\MxTestProject\deployment\build_core.xml
+
+clean:
+   [delete] Deleting directory C:\msys64\home\Rick.Wilson\projects\customStringRedux\test\MxTestProject\deployment\model
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+

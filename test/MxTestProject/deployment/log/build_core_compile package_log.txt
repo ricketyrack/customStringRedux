@@ -1,0 +1,12 @@
+Buildfile: C:\msys64\home\Rick.Wilson\projects\customStringRedux\test\MxTestProject\deployment\build_core.xml
+
+compile:
+    [javac] Compiling 30 source files to C:\msys64\home\Rick.Wilson\projects\customStringRedux\test\MxTestProject\deployment\run\bin
+
+package:
+      [jar] Building jar: C:\msys64\home\Rick.Wilson\projects\customStringRedux\test\MxTestProject\deployment\model\bundles\project.jar
+
+BUILD SUCCESSFUL
+Total time: 1 second
+
+

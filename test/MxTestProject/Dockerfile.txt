@@ -1,0 +1,5 @@
+FROM ubuntu:latest
+MAINTAINER Rick Wilson (rick.wilson@loves.com)
+CMD ["date"]
+
+

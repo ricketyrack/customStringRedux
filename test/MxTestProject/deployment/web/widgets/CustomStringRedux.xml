@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget id="loves.customstringredux.CustomStringRedux" pluginWidget="true" needsEntityContext="true" offlineCapable="true"
+        supportedPlatform="Web"
+        xmlns="http://www.mendix.com/widget/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.mendix.com/widget/1.0/ ../node_modules/mendix/custom_widget.xsd">
+    <name>Custom String Redux</name>
+    <description>Display the string returned by the specified microflow.</description>
+    <icon/>
+    <properties>
+        <propertyGroup caption="General">
+            <property type="expression" key="sourceExpression" defaultValue="" required="true">
+                <caption>Expression</caption>
+                <description />
+                <returnType type="String" />
+            </property>
+            <property key="htmlTag" type="enumeration" defaultValue="div">
+	            <caption>HTML Tag</caption>
+	            <description>Enclosing content to use</description>
+	            <enumerationValues>
+		            <enumerationValue key="div">div</enumerationValue>
+		            <enumerationValue key="h1">h1</enumerationValue>
+		            <enumerationValue key="h2">h2</enumerationValue>
+		            <enumerationValue key="h3">h3</enumerationValue>
+		            <enumerationValue key="h4">h4</enumerationValue>
+                    <enumerationValue key="p">p</enumerationValue>
+		            <enumerationValue key="span">span</enumerationValue>
+	            </enumerationValues>
+            </property>
+        </propertyGroup>
+        <propertyGroup caption="Common">
+            <systemProperty key="Visibility" />
+            <systemProperty key="Name" />
+            <systemProperty key="TabIndex" />
+        </propertyGroup>
+    </properties>
+</widget>

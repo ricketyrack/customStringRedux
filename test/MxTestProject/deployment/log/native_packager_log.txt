@@ -1,0 +1,22 @@
+C:\Program Files\Mendix\8.4.1.63369\modeler\tools\node\node.exe "C:\Program Files\Mendix\8.4.1.63369\modeler\tools\node\node_modules\react-native\local-cli\cli.js" start --port "8083" --config "C:/msys64/home/Rick.Wilson/projects/customStringRedux/test/MxTestProject/deployment/native/metro.config.json" --reactNativePath "C:\Program Files\Mendix\8.4.1.63369\modeler\tools\node\node_modules\react-native" 
+
+â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+â”‚                                                                              â”‚
+â”‚  Running Metro Bundler on port 8083.                                         â”‚
+â”‚                                                                              â”‚
+â”‚  Keep Metro running while developing on any JS projects. Feel free to        â”‚
+â”‚  close this tab and run your own Metro instance if you prefer.               â”‚
+â”‚                                                                              â”‚
+â”‚  https://github.com/facebook/react-native                                    â”‚
+â”‚                                                                              â”‚
+â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+
+Looking for JS files in
+   C:\msys64\home\Rick.Wilson\projects\customStringRedux\test\MxTestProject\deployment\native
+   C:/msys64/home/Rick.Wilson/projects/customStringRedux/test/MxTestProject/theme
+   C:/msys64/home/Rick.Wilson/projects/customStringRedux/test/MxTestProject/javascriptsource
+   C:/Program Files/Mendix/8.4.1.63369/modeler/tools/node/node_modules 
+
+Loading dependency graph, done.
+
+
